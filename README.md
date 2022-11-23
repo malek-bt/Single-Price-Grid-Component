@@ -35,7 +35,7 @@ Mobile version
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/malek-bt/Single-Price-Grid-Component)
-- Live Site URL: [GitHub Pages Live URL]()
+- Live Site URL: [GitHub Pages Live URL](https://malek-bt.github.io/Single-Price-Grid-Component/)
 
 ## My process
 
