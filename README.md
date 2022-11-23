@@ -34,8 +34,8 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/hatemhenchir/Single-Price-Grid-Component)
-- Live Site URL: [GitHub Pages Live URL](https://hatemhenchir.github.io/Single-Price-Grid-Component/)
+- Solution URL: [Code on GitHub](https://github.com/malek-bt/Single-Price-Grid-Component)
+- Live Site URL: [GitHub Pages Live URL]()
 
 ## My process
 
@@ -55,5 +55,5 @@ Will do more of these challenges to improve my skills.
 
 ## Author
 
-- Frontend Mentor - [@hatemhenchir](https://www.frontendmentor.io/profile/malek-bt)
-- Linkedin - [@hatem-henchir-7a92141a8](https://www.linkedin.com/in/malek-bentaher-361028222/)
+- Frontend Mentor - [@malekbentaher](https://www.frontendmentor.io/profile/malek-bt)
+- Linkedin - [@malek-bentaher-361028222(https://www.linkedin.com/in/malek-bentaher-361028222/)
