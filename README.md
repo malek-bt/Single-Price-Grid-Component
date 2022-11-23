@@ -56,4 +56,4 @@ Will do more of these challenges to improve my skills.
 ## Author
 
 - Frontend Mentor - [@malekbentaher](https://www.frontendmentor.io/profile/malek-bt)
-- Linkedin - [@malek-bentaher-361028222(https://www.linkedin.com/in/malek-bentaher-361028222/)
+- Linkedin - [@malek-bentaher-361028222](https://www.linkedin.com/in/malek-bentaher-361028222/)
